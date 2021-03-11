@@ -1,0 +1,92 @@
+[
+    {
+        "license": "1JK",
+        "brand": "VW",
+        "model": "GOLF 1",
+        "lp100": 6,
+        "cost_per_hour": 2,
+        "cost_per_day": 40,
+        "cost_per_week": 250
+    },
+    {
+        "license": "2FU",
+        "brand": "VW",
+        "model": "GOLF 2",
+        "lp100": 7,
+        "cost_per_hour": 4,
+        "cost_per_day": 80,
+        "cost_per_week": 500
+    },
+    {
+        "license": "3DC",
+        "brand": "VW",
+        "model": "GOLF 3",
+        "lp100": 8,
+        "cost_per_hour": 6,
+        "cost_per_day": 120,
+        "cost_per_week": 750
+    },
+    {
+        "license": "R36",
+        "brand": "VW",
+        "model": "GOLF 4",
+        "lp100": 6.4,
+        "cost_per_hour": 8,
+        "cost_per_day": 160,
+        "cost_per_week": 1000
+    },
+    {
+        "license": "O25",
+        "brand": "FORD",
+        "model": "ESCORT",
+        "lp100": 4,
+        "cost_per_hour": 6,
+        "cost_per_day": 120,
+        "cost_per_week": 750
+    },
+    {
+        "license": "HAA",
+        "brand": "MERCEDES",
+        "model": "C220",
+        "lp100": 9.3,
+        "cost_per_hour": 13.5,
+        "cost_per_day": 300,
+        "cost_per_week": 2900
+    },
+    {
+        "license": "9FV",
+        "brand": "FERRARI",
+        "model": "LAFERRARI",
+        "lp100": 22,
+        "cost_per_hour": 200,
+        "cost_per_day": 4500,
+        "cost_per_week": 30000
+    },
+    {
+        "license": "QZ6",
+        "brand": "BUGATI",
+        "model": "CHIRON",
+        "lp100": 21,
+        "cost_per_hour": 250,
+        "cost_per_day": 6000,
+        "cost_per_week": 42000
+    },
+    {
+        "license": "9AZ",
+        "brand": "TOYOTA",
+        "model": "YARIS",
+        "lp100": 2,
+        "cost_per_hour": 16,
+        "cost_per_day": 360,
+        "cost_per_week": 2300
+    },
+    {
+        "license": "33R",
+        "brand": "FORD",
+        "model": "FOCUS",
+        "lp100": 5.6,
+        "cost_per_hour": 9.5,
+        "cost_per_day": 210,
+        "cost_per_week": 1200
+    }
+]
